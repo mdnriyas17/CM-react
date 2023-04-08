@@ -1,14 +1,11 @@
 
 import './App.css';
-import Cmconverter from './pages/converter';
-
+import Summa from './pages/summa';
 
 function App() {
-  
-
   return (
     <div className="App">
- <Cmconverter/>
+<Summa />
     </div>
   );
 }

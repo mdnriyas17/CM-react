@@ -1,6 +1,6 @@
 import React from "react";
 
-function Cmconverter (props){
+function Cmconverter (){
 
     function handlechange(){
         let Centemeter =  Number(document.getElementById("input").value)
@@ -14,7 +14,6 @@ function Cmconverter (props){
         <div>
            <h1 class="heading">welcome to <br/>Centemeter to Inch converter</h1>
     <div id="main">
-        
         <div id="container">
             <div id="heading-parent">
                 <h1 id="heading">
