@@ -5,7 +5,6 @@ function Summa (){
     return (<div>
 
 <Cmconverter/>
-        <Cmconverter />
     </div>
         
     )

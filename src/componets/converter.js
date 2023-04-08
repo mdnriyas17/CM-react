@@ -21,7 +21,7 @@ function Cmconverter (){
                 </h1>
             </div>
             <div id="input-parent">
-                <input id="input" type="text" placeholder="Enter value in Centemeter"/>
+                <input id="input" type="number" placeholder="Enter value in Centemeter" required/>
             </div>
             <div id="button"><ul></ul>
                 <button id="submit" onClick={()=>handlechange()}>
